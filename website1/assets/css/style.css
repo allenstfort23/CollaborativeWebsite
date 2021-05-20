@@ -11,13 +11,10 @@ body{
 }
 .top-p {
     font-size: 20px;
-.card-title {
-    font-size: 150px;
     text-align: center;
 }
 
 .card-text {
-    font-size: 80px;
     text-align: center;
 }
 
